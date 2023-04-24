@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "update_metadata",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "../assets/update_metadata_script.py"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+        }
+    ]
+}

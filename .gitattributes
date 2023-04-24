@@ -1,0 +1,28 @@
+# Ensure that all text files have LF line endings in the repository
+* text=auto
+
+# Set specific file types to use CRLF line endings
+*.bat text eol=crlf
+
+# Lock binary files to avoid merge conflicts
+*.docx lock=merge
+
+# Use custom diff settings for .json files
+*.json diff=json
+
+# Use union merge strategy for the CHANGELOG file
+CHANGELOG.md merge=union
+
+# Treat .jpg files as binary
+*.jpg binary
+
+# Treat .txt files as text
+*.txt text
+
+# Exclude files from archives (e.g., when using `git archive`)
+.gitignore export-ignore
+.gitattributes export-ignore
+
+# Exclude files from patches (e.g., when using `git format-patch`)
+.gitignore import-ignore
+.gitattributes import-ignore

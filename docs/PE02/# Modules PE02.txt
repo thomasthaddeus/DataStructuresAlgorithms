@@ -1,0 +1,311 @@
+# Modules PE02
+
+## Implementation of the SimpleArrayShoppingListManagerClass and LinkedListShoppingListManagerClass:
+
+### File #1
+
+```py
+"""
+File: simple_array_shopping_list_manager.py
+Author: [Your Name]
+Date: [Creation Date]
+Description: This module provides a class for managing a shopping list using a simple array.
+"""
+
+from array import array
+
+class SimpleArrayShoppingListManagerClass:
+    """
+    Class: SimpleArrayShoppingListManagerClass
+    Purpose: Provides functionality to manage a shopping list using a simple array.
+    """
+
+    def init(self):
+        """
+        Method: init
+        Purpose: Initializes the simple array to be used throughout the object's life.
+        """
+        self.items = array('u', [])
+
+    def insert_item(self, item):
+        """
+        Method: insert_item
+        Purpose: Inserts an item at the front of the array.
+        Parameters: item (str) - The name of the item to be inserted.
+        """
+        self.items.insert(0, item)
+
+    def print_items(self):
+        """
+        Method: print_items
+        Purpose: Prints all the items in the array, separated by spaces.
+        """
+        for item in self.items:
+            print(item, end=" ")
+        print()
+
+    def delete_item(self, item):
+        """
+        Method: delete_item
+        Purpose: Deletes an item from the array.
+        Parameters: item (str) - The name of the item to be deleted.
+        """
+        index = self.items.index(item)
+        self.items.pop(index)
+
+    def get_last_item(self):
+        """
+        Method: get_last_item
+        Purpose: Returns the last item name from the simple array.
+        Returns: str - The name of the last item in the array.
+        """
+        return self.items[-1]
+
+    def selection_sort(self):
+        """
+        Method: selection_sort
+        Purpose: Sorts items in the array using the selection sort algorithm.
+        """
+        for i in range(len(self.items)):
+            min_idx = i
+            for j in range(i+1, len(self.items)):
+                if self.items[min_idx] > self.items[j]:
+                    min_idx = j
+            self.items[i], self.items[min_idx] = self.items[min_idx], self.items[i]
+
+```
+
+### File #2
+
+```py
+"""linked_list_shopping_list_manager.py"""
+
+class LinkedListShoppingListManagerClass:
+class Node:
+def init(self, item):
+self.item = item
+self.next = None
+
+python
+Copy code
+def __init__(self):
+    self.head = None
+
+def insert_item(self, item):
+    new_node = self.Node(item)
+    new_node.next = self.head
+    self.head = new_node
+
+def print_items(self):
+    current = self.head
+    while current:
+        print(current.item, end=" ")
+        current = current.next
+    print()
+
+def delete_item(self, item):
+    if self.head and self.head.item == item:
+        self.head = self.head.next
+        return
+
+    current = self.head
+    while current.next:
+        if current.next.item == item:
+            current.next = current.next.next
+            return
+        current = current.next
+
+def get_last_item(self):
+    current = self.head
+    while current.next:
+        current = current.next
+    return current.item
+
+def find_smallest(self):
+    smallest = self.head.item
+    current = self.head.next
+    while current:
+        if current.item < smallest:
+            smallest = current.item
+        current = current.next
+    return smallest
+```
+
+Note: The selection sort for the linked list is not implemented in this solution as it is not efficient for linked lists.
+Comparing the runtime of insert/delete/lookup operations between the simple array and the linked list:
+
+Insert operation:
+
+Simple array: In the worst case, the insert operation takes O(n) time due to the need to shift elements when inserting at the front.
+Linked list: The insert operation is constant time O(1) as it only requires updating pointers.
+Delete operation:
+
+Simple array: The delete operation takes O(n) time in the worst case, as the need to find the item's index and shift the elements after the deleted item.
+Linked list: The delete operation takes O(n) time in the worst case, as the need to traverse the list and update the pointers.
+Lookup operation (last element):
+
+Simple array: The lookup operation is constant time O(1) as it directly accesses the last element using its index.
+Linked list: The lookup operation takes O(n) time in the worst case, as the need to traverse the list to find the last element.
+In conclusion, the linked list is more efficient for insert operations, while the simple array is more efficient for the lookup operation (for the last element). The delete operation has the same complexity for both data structures. However, the actual runtime can be different due to factors such as the underlying memory allocation and the size of the data. The selection sort is not recommended for the linked
+
+
+
+
+Thaddeus Thomas
+you were saying
+list because it requires a lot of pointer manipulation, and there are more efficient sorting algorithms for linked lists, such as merge sort.
+
+In conclusion, the choice between a simple array and a linked list for managing a shopping list depends on the specific use case and the operations that will be performed most frequently. If insertions and deletions are more common, a linked list may be more efficient. However, if direct access to elements is a priority, a simple array may be a better choice.
+
+
+
+
+Thaddeus Thomas
+Can you write issue templates for github repositories 
+Certainly! Here are three common issue templates for GitHub repositories: bug report, feature request, and documentation update. You can create a .github folder in your repository, and inside that folder, create an ISSUE_TEMPLATE folder to store these templates as individual markdown files.
+
+Bug Report Template (bug_report.md):
+yaml
+Copy code
+---
+name: Bug Report
+about: Create a report to help us improve
+labels: bug
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See the error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Environment (please complete the following information):**
+ - OS: [e.g. iOS, Windows, Linux]
+ - Browser [e.g. Chrome, Safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
+Feature Request Template (feature_request.md):
+yaml
+Copy code
+---
+name: Feature Request
+about: Suggest an idea for this project
+labels: enhancement
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+Documentation Update Template (documentation_update.md):
+yaml
+Copy code
+---
+name: Documentation Update
+about: Request updates or improvements in the documentation
+labels: documentation
+---
+
+**Describe the issue with the documentation**
+A clear and concise description of what the issue is.
+
+**Suggested improvement**
+Provide a detailed description of the changes you suggest to improve the documentation.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Additional context**
+Add any other context about the problem here.
+By using these templates, you can guide users to provide more structured and detailed information when they create issues in your GitHub repository.
+
+
+
+
+Thaddeus Thomas
+what other kind of issue templates are there?
+There are many types of issue templates you can create, depending on the specific needs of your project. Some other common issue templates include:
+
+Code Improvement Template (code_improvement.md):
+yaml
+Copy code
+---
+name: Code Improvement
+about: Suggest improvements in code quality, performance, or maintainability
+labels: code-improvement
+---
+
+**Describe the code improvement**
+A clear and concise description of the code improvement you'd like to suggest.
+
+**Affected module(s) or file(s)**
+List the specific module(s) or file(s) that would benefit from this improvement.
+
+**Describe the benefits of this change**
+Explain how this change will improve code quality, performance, or maintainability.
+
+**Additional context**
+Add any other context or screenshots about the code improvement here.
+Question or Discussion Template (question_discussion.md):
+yaml
+Copy code
+---
+name: Question or Discussion
+about: Ask a question or start a discussion about the project
+labels: question, discussion
+---
+
+**Question or topic for discussion**
+A clear and concise description of the question or topic you'd like to discuss.
+
+**Details**
+Provide any relevant details or context to help frame the discussion.
+
+**Additional context**
+Add any other context, references, or screenshots related to the question or discussion here.
+Security Issue Template (security_issue.md):
+yaml
+Copy code
+---
+name: Security Issue
+about: Report a security vulnerability or concern
+labels: security
+---
+
+**Describe the security issue**
+A clear and concise description of the security vulnerability or concern.
+
+**Affected module(s) or file(s)**
+List the specific module(s) or file(s) that are affected by this security issue.
+
+**Steps to reproduce the issue**
+Provide the steps to reproduce the security issue, if applicable.
+
+**Potential impact**
+Explain the potential impact of this security issue on the project and its users.
+
+**Suggested fix or mitigation**
+If you have any suggestions on how to fix or mitigate the security issue, please provide them here.
+
+**Additional context**
+Add any other context, references, or screenshots related to the security issue here.
+These are just a few examples, and you can create custom issue templates for any type of issue relevant to your project. The key is to provide clear guidance on the information needed to address the issue effectively, and to use appropriate labels to help categorize and prioritize the issues.
