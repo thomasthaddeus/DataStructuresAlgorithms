@@ -2,7 +2,7 @@
 
 ## Instructions
 
-[shopping_list.py]()
+[shopping_list.py](/modules/PE03/shopping_list.py)
 
 ### Description
 
@@ -12,7 +12,10 @@ A shopping list using Stack will be implemented for this exercise.
 
 The program stores shopping items in both of simple array or linked list based Stack.
 
-Each storing mechanism is separated into different files, such as `simple_array_shopping_list_manager.py` or `linked_list_shopping_list_manager.py`, where each file contains FileNameClass classes with essential methods for data manipulation. Note that `shopping_list.py` with the `main` method has already been provided (download attachment).
+Each storing mechanism is separated into different files, such as `simple_array_shopping_list_manager.py` or `linked_list_shopping_list_manager.py`, \
+where each file contains `FileNameClass` classes with essential methods for data manipulation.
+
+**Note** that `shopping_list.py` with the `main` method has already been provided (download attachment).
 
 As part of the assignment, compare the actual runtime of insert operation between two lists, and justify in a short paragraph on how the algorithms perform.
 
@@ -20,13 +23,15 @@ Keep in mind to always comment and document your class and methods.
 
 ### Documentation Reference
 
-Mertz, J. (n.d.). Documenting Python Code: A Complete Guide. <https://realpython.com/documenting-python-code/>
+Mertz, J. (2018). Documenting python code: A complete guide. realpython.com. <https://realpython.com/documenting-python-code/>
 
 ### Expected Result
 
 #### `shopping_list.py`
 
-This is the Main python file which is already provided and contains main and test procedure which calls methods implemented on "`simple_array_shopping_list_manager.py`" or "`linked_list_stack_shopping_list_manager.py`" file to manage shopping items. (This is already provided, but please include this file on your submission).
+This is the Main python file which is already provided and contains main and test procedure which calls methods implemented on \
+"`simple_array_shopping_list_manager.py`" or "`linked_list_stack_shopping_list_manager.py`" file to manage shopping items.
+(This is already provided, but please include this file on your submission).
 
 #### `simple_array_shopping_list_manager.py`
 
@@ -56,7 +61,7 @@ This class contains such methods as:
 1. `removeLastItem`.
 
 In addition, this class requires the inner class to hold onto data as a linked list based on Stack.
-**DO NOT** use standard python library, such as deque from the collections module.
+**DO NOT** use standard python library, such as `deque` from the collections module.
 Please keep in mind the following notes for each method during implementation:
 
 - `Init()`: initializes linked list based on Stack object to be used throughout object life.
@@ -81,10 +86,17 @@ As part of the assignment, compare the actual runtime of insert operation betwee
 
 #### Comparison WriteUp
 
-    As for the comparison of the actual runtime of the insert operation between the two lists, you will notice that the simple_array_shopping_list_manager.py implementation will have a longer runtime than the linked_list_stack_shopping_list_manager.py implementation. This is because the insert operation for the simple array implementation has a time complexity of O(n) in the worst case, as it may need to shift all the elements when inserting a new item at the beginning of the list. On the other hand, the insert operation for the linked list implementation has a time complexity of O(1), as it only needs to update the head pointer and the next pointer of the new node. In general, linked lists perform better than simple arrays for insert operations at the beginning of the list, as they do not require shifting any elements.
+Comparison of the actual runtime of the insert operation between the two lists.
+
+1. The `simple_array_shopping_list_manager.py` implementation will have a longer runtime than the `linked_list_stack_shopping_list_manager.py` implementation.
+2. This is because the insert operation for the simple array implementation has a time complexity of **O(n)** in the worst case
+   1. it may need to shift all the elements when inserting a new item at the beginning of the list
+3. The insert operation for the linked list implementation has a time complexity of **O(1)**
+   1. It only needs to update the head pointer and the next pointer of the new node.
+4. In general, linked lists perform better than simple arrays for insert operations at the beginning of the list, as they do not require shifting any elements.
 
 ### Example Output
 
 ![out1]
 
-[out1]: <3-week-output.png> "Output from "
+[out1]: </img/3-output.png> "Output from "

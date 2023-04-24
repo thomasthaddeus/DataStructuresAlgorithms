@@ -73,7 +73,8 @@ class LinkedListShoppingListManagerClass:
         if temp is None:
             return
 
-        # Update the previous node's next pointer to the node after the one to be deleted
+        # Update the previous node's next pointer to the
+        # node after the one to be deleted
         prev.next = temp.next
         temp = None  # Delete the node with the item
 
@@ -98,7 +99,8 @@ class LinkedListShoppingListManagerClass:
         if not self.head:
             return None
 
-        smallest_item = self.head.data  # Set the smallest item to the head's data
+        # Set the smallest item to the head's data
+        smallest_item = self.head.data
         current_node = self.head.next
 
         # Traverse the linked list to find the smallest item
