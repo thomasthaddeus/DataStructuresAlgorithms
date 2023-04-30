@@ -39,8 +39,8 @@ def main():
 
     # insert operation
     simple_array_insert_start_time = time.perf_counter()
-    for item in item_list:
-        sim_arr.insert_item(item)
+    for i, listi in enumerate(item_list):
+        sim_arr.insert_item(listi[i])
     simple_array_insert_end_time = time.perf_counter()
     print("current list:\t", end=" ")
     sim_arr.print_items()
@@ -59,9 +59,7 @@ def main():
     print(f"last element:\t{sa_last_element}")
 
     # sort operation
-    simple_array_sort_start_time = time.perf_counter()
     sim_arr.selection_sort()
-    simple_array_sort_end_time = time.perf_counter()
     print("Sorted(a to z):\t", end=" ")
     sim_arr.print_items()
 
@@ -69,31 +67,26 @@ def main():
     sa_insert_op = simple_array_insert_end_time - simple_array_insert_start_time
     sa_delete_op = simple_array_delete_end_time - simple_array_delete_start_time
     sa_lookup_op = simple_array_lookup_end_time - simple_array_lookup_start_time
-    sa_sort_op = simple_array_sort_end_time - simple_array_sort_start_time
     print(
-        f"-insert: {sa_insert_op}\n \
-          -delete: {sa_delete_op}\n \
-          -lookup: {sa_lookup_op}\n \
-            -sort: {sa_sort_op}\n"
+        f"-insert: {sa_insert_op}\n-delete: {sa_delete_op}\n-lookup: {sa_lookup_op}\n"
     )
 
     print("------ Linked list ------")
     lnk_lst = LinkedListStackShoppingListManager()
-
     # insert operation
     linked_list_insert_start_time = time.perf_counter()
-    for item in item_list:
-        lnk_lst.insert_item(item)
+    for i, listi in enumerate(item_list):
+        lnk_lst.insert_item(listi[i])
     linked_list_insert_end_time = time.perf_counter()
     print("current list:\t", end=" ")
-    lnk_lst.print_items_from_top()
+    lnk_lst.print_items()
 
     # delete operation
     linked_list_delete_start_time = time.perf_counter()
-    lnk_lst.remove_last_item("milk")
+    lnk_lst.delete_item("milk")
     linked_list_delete_end_time = time.perf_counter()
     print("delete milk:\t", end=" ")
-    lnk_lst.print_items_from_top()
+    lnk_lst.print_items()
 
     # look up operation(last element)
     linked_list_lookup_start_time = time.perf_counter()
@@ -102,24 +95,21 @@ def main():
     print(f"last element:\t{ll_last_element}")
 
     # find smallest
-    linked_list_smallest_start_time = time.perf_counter()
-    ll_smallest = lnk_lst.()
-    linked_list_smallest_end_time = time.perf_counter()
-    print(f"smallest element:\t{ll_smallest}")
+    print(f"smallest element:\t{lnk_lst.find_smallest()}")
+
+    # sort operation
+    # lnk_lst.selection_sort()
+    # print("Sorted(a to z):\t", end = " ")
+    # lnk_lst.print_items()
 
     # time summary:
     ll_insert_op = linked_list_insert_end_time - linked_list_insert_start_time
     ll_delete_op = linked_list_delete_end_time - linked_list_delete_start_time
     ll_lookup_op = linked_list_lookup_end_time - linked_list_lookup_start_time
-    ll_smallest_op = linked_list_smallest_end_time - linked_list_smallest_start_time
     print(
-        f"-insert: {ll_insert_op}\n \
-          -delete: {ll_delete_op}\n \
-          -lookup: {ll_lookup_op}\n \
-        -smallest: {ll_smallest_op}\n"
+        f"-insert: {ll_insert_op}\n-delete: {ll_delete_op}\n-lookup: {ll_lookup_op}\n"
     )
 
 
-
-if __name__=='main':
+if __name__ == "__main__":
     main()

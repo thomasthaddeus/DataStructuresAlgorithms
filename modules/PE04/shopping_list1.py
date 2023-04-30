@@ -11,9 +11,9 @@ As part of the assignment, compare the actual runtime of Quick sort operation be
 in a short paragraph on how the algorithms perform.
 """
 
-from list_manager.simple_array_shopping_list_manager import SimpleArrayShoppingListManagerClass
-from list_manager.linked_list_shopping_list_manager import LinkedListShoppingListManagerClass
 import time
+from list_manager.simple_array_shopping_list_manager import SimpleArrayShoppingListManager
+from list_manager.linked_list_shopping_list_manager import LinkedListShoppingListManager
 
 item_list = [
     "apple",
@@ -31,12 +31,15 @@ item_list = [
 
 
 def main():
+    """
+    The program stores shopping items in both simple array or linked list.
+    """
     print("------ Simple array ------")
-    sa = SimpleArrayShoppingListManagerClass()
+    sa = SimpleArrayShoppingListManager()
 
     # insert operation
-    for i in enumerate(item_list)):
-        sa.insert_item(item_list[i])
+    for _, i in enumerate(item_list):
+        sa.insert_item(i)
     print("Current list:\t", end=" ")
     sa.print_items()
 
@@ -48,11 +51,11 @@ def main():
     sa.print_items()
 
     # time summary:
-    saSortOp = simple_array_sort_end_time - simple_array_sort_start_time
-    print(f"-sort: {saSortOp}")
+    sa_sort_op = simple_array_sort_end_time - simple_array_sort_start_time
+    print(f"-sort: {sa_sort_op}")
 
     print("------ Linked list ------")
-    ll = LinkedListShoppingListManagerClass()
+    ll = LinkedListShoppingListManager()
 
     # insert operation
     for _, i in enumerate(item_list):
@@ -68,8 +71,8 @@ def main():
     ll.print_items()
 
     # time summary:
-    llSortOp = linked_list_sort_end_time - linked_list_sort_start_time
-    print(f"-sort: {llSortOp}")
+    ll_sort_op = linked_list_sort_end_time - linked_list_sort_start_time
+    print(f"-sort: {ll_sort_op}")
 
 
 if __name__ == "__main__":

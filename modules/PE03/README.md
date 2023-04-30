@@ -89,14 +89,12 @@ As part of the assignment, compare the actual runtime of insert operation betwee
 Comparison of the actual runtime of the insert operation between the two lists.
 
 1. The `simple_array_shopping_list_manager.py` implementation will have a longer runtime than the `linked_list_stack_shopping_list_manager.py` implementation.
-2. This is because the insert operation for the simple array implementation has a time complexity of **O(n)** in the worst case
+2. This is because the insert operation for the simple array implementation has a time complexity of `O(n)` in the worst case
    1. it may need to shift all the elements when inserting a new item at the beginning of the list
-3. The insert operation for the linked list implementation has a time complexity of **O(1)**
+3. The insert operation for the linked list implementation has a time complexity of `O(1)`
    1. It only needs to update the head pointer and the next pointer of the new node.
-4. In general, linked lists perform better than simple arrays for insert operations at the beginning of the list, as they do not require shifting any elements.
+4. In general, linked lists perform better than simple arrays for insert operations at the beginning of the list, as they do not require shifting any elements
 
 ### Example Output
 
-![out1]
-
-[out1]: </img/3-output.png> "Output from "
+![Output from failed implementation](../../img/3-output.jpg)

@@ -45,5 +45,6 @@ This is a file that includes the class of linked list based shopping list manage
 - `quick_sort_helper(linked_list)`: since the item list is within the class, this helper method takes in the linked list and runs quick sort recursively.
 - **Parameters**: linked list item list to be sorted.
 - `quick_sort()`: sorts items on the linked list from the current object and replaces it with the newly sorted result.
-As part of the assignment, compare the actual runtime of quicksort operation between two lists and justify in a short paragraph on how they perform.
+
+1. As part of the assignment, compare the actual runtime of quicksort operation between two lists and justify in a short paragraph on how they perform.
 Example output:
