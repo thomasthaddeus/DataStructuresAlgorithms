@@ -10,11 +10,13 @@ This assignment is to gain knowledge on quicksort using a linked list. A shoppin
 
 - ***Note*** that "`shopping_list.py`" with the "main" method has already been provided (download attachment). As part of the assignment, compare the actual runtime of quicksort operation between two lists and justify in a short paragraph on how the algorithms perform. Keep in mind to always comment and document your class and methods.
 
-## Documentation reference
+### Reference
 
 Mertz, J. (n.d.). Documenting Python Code: A Complete Guide. <https://realpython.com/documenting-python-code/>
 
 ## Expected result
+
+---
 
 ### shopping_list.py
 
@@ -46,5 +48,10 @@ This is a file that includes the class of linked list based shopping list manage
 - **Parameters**: linked list item list to be sorted.
 - `quick_sort()`: sorts items on the linked list from the current object and replaces it with the newly sorted result.
 
-1. As part of the assignment, compare the actual runtime of quicksort operation between two lists and justify in a short paragraph on how they perform.
-Example output:
+## Comparison
+
+As part of the assignment, compare the actual runtime of quicksort operation between two lists and justify in a short paragraph on how they perform.
+
+### Screenshots
+
+![Example output](../../img/4-output.jpg)

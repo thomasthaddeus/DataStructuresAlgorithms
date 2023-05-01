@@ -1,5 +1,9 @@
 """simple_array_shopping_list_manager.py
 
+Author:     Thaddeus Thomas
+Date:       2023-04-30
+Project:    CS 469:
+
 This module contains the SimpleArrayShoppingListManager class, which provides an implementation
 of a shopping list manager using a simple array data structure. The class includes methods
 for initializing the array, inserting items, printing items, and sorting the items using the

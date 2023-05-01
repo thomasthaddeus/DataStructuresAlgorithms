@@ -73,4 +73,7 @@ class LinkedListShoppingListManager:
 
     def quick_sort(self) -> None:
         """Sorts the items in the shopping list using the quick sort algorithm."""
+        tail = self.head
+        while tail and tail.next:
+            tail = tail.next
         self.head = self.quick_sort_helper(self.head)

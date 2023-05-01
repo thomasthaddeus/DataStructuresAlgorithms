@@ -32,12 +32,13 @@ item_list = [
 
 
 def main():
+    """Defines the main function"""
     print("------ Simple array ------")
     sa = SimpleArrayShoppingListManager()
 
     # insert operation
-    for i in range(len(item_list)):
-        sa.insert_item(item_list[i])
+    for _, i in enumerate(item_list):
+        sa.insert_item(i)
     print("Current list:\t", end=" ")
     sa.print_items()
 
@@ -49,15 +50,15 @@ def main():
     sa.print_items()
 
     # time summary:
-    saSortOp = simple_array_sort_end_time - simple_array_sort_start_time
-    print("-sort: %s" % (saSortOp))
+    sa_sort_op = simple_array_sort_end_time - simple_array_sort_start_time
+    print(f"-sort: {sa_sort_op}")
 
     print("------ Linked list ------")
     ll = LinkedListShoppingListManager()
 
     # insert operation
-    for i in range(len(item_list)):
-        ll.insert_item(item_list[i])
+    for _, i in enumerate(item_list):
+        ll.insert_item(i)
     print("Current list:\t", end=" ")
     ll.print_items()
 
@@ -69,8 +70,8 @@ def main():
     ll.print_items()
 
     # time summary:
-    llSortOp = linked_list_sort_end_time - linked_list_sort_start_time
-    print("-sort: %s" % (llSortOp))
+    ll_sort_op = linked_list_sort_end_time - linked_list_sort_start_time
+    print(f"-sort: {ll_sort_op}")
 
 
 if __name__ == "__main__":
