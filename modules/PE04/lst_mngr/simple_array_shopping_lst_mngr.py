@@ -2,7 +2,8 @@
 
 Author:     Thaddeus Thomas
 Date:       2023-04-30
-Project:    CS 469:
+Class:      CS 469: Data Structures & Algorithms
+Assignment: PE04
 
 This module contains the SimpleArrayShoppingListManager class, which provides an implementation
 of a shopping list manager using a simple array data structure. The class includes methods

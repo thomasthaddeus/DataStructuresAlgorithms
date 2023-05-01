@@ -1,9 +1,14 @@
 """shopping_list.py
 
+Author:     Thaddeus Thomas
+Date:       2023-04-30
+Class:      CS 469: Data Structures & Algorithms
+Assignment: PE04
+
 This assignment is to gain knowledge on Quick sort using Linked list. A shopping list will be
 reimplemented for this exercise. The program stores shopping items in both simple array or
 linked list. Each storing mechanism is separated into different files, such as
-"simple_array_shopping_list_manager.py" or "linked_list_shopping_list_manager.py", where each file
+"simple_array_shopping_lst_mngr.py" or "linked_list_shopping_lst_mngr.py", where each file
 contains FileNameClass classes with essential methods for data manipulation.
 Note that "shopping_list.py" with the "main" method has already been provided (download attachment).
 
@@ -12,8 +17,8 @@ and justify in a short paragraph on how the algorithms perform.
 """
 
 import time
-from list_manager.simple_array_shopping_list_manager import SimpleArrayShoppingListManager
-from list_manager.linked_list_shopping_list_manager import LinkedListShoppingListManager
+from lst_mngr.simple_array_shopping_lst_mngr import SimpleArrayShoppingListManager
+from lst_mngr.linked_list_shopping_lst_mngr import LinkedListShoppingListManager
 
 item_list = [
     "apple",

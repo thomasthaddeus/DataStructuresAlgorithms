@@ -1,5 +1,8 @@
 """linked_listshopping_list_manager.py
 
+
+
+
 This module defines a LinkedListShoppingListManager class for managing a shopping list using a
 singly linked list. It also includes a Node class for representing a node in the linked list.
 """
