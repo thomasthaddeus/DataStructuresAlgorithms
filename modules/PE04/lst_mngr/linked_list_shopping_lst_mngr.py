@@ -1,10 +1,40 @@
 """linked_listshopping_list_manager.py
 
+Author:     Thaddeus Thomas
+Date:       2023-04-30
+Class:      CS 469: Data Structures & Algorithms
+Assignment: PE04
 
+This module provides a LinkedListShoppingListManager class for managing a shopping list using a
+singly linked list. The LinkedListShoppingListManager class supports various operations, such as
+inserting, removing, searching, updating, and sorting items, as well as merging two sorted shopping
+lists, counting occurrences of items, swapping positions of items, and more. The module also
+includes a Node class for representing a node in the linked list.
 
+Example:
 
-This module defines a LinkedListShoppingListManager class for managing a shopping list using a
-singly linked list. It also includes a Node class for representing a node in the linked list.
+    from linked_list_shopping_list_manager import LinkedListShoppingListManager
+
+    shopping_list = LinkedListShoppingListManager()
+    shopping_list.insert_item("apples")
+    shopping_list.insert_item("bananas")
+    shopping_list.insert_item("carrots")
+    shopping_list.print_items()
+
+    shopping_list.remove_item("bananas")
+    shopping_list.update_item("carrots", "cherries")
+    shopping_list.insert_item_at_position("bread", 1)
+
+    for item in shopping_list:
+        print(item)
+
+    shopping_list.sort()
+    shopping_list.print_items()
+
+Classes:
+
+    Node: Represents a node in a singly linked list.
+    LinkedListShoppingListManager: Manages a shopping list using a singly linked list.
 """
 
 class Node:
@@ -59,7 +89,7 @@ class LinkedListShoppingListManager:
             return head
 
         pivot_prev, pivot = None, head
-        current = head
+        current = head.next
 
         while current:
             if current.item < pivot.item:
@@ -71,12 +101,9 @@ class LinkedListShoppingListManager:
                 pivot_prev, current = current, current.next
 
         pivot.next = self.quick_sort_helper(pivot.next)
-        head = self.quick_sort_helper(head)
+        head = self.quick_sort_helper(head.next)
         return head
 
-    def quick_sort(self) -> None:
+    def quick_sort(self):
         """Sorts the items in the shopping list using the quick sort algorithm."""
-        tail = self.head
-        while tail and tail.next:
-            tail = tail.next
         self.head = self.quick_sort_helper(self.head)

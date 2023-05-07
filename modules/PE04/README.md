@@ -2,7 +2,7 @@
 
 ## Instructions
 
-[shopping_list.py](./)
+[shopping_list.py](./shopping_list1.py)
 
 ## Description
 
@@ -12,7 +12,7 @@ This assignment is to gain knowledge on quicksort using a linked list. A shoppin
 
 ### Reference
 
-Mertz, J. (n.d.). Documenting Python Code: A Complete Guide. <https://realpython.com/documenting-python-code/>
+Mertz, J. (2022). [Documenting Python Code: A Complete Guide.](https://realpython.com/documenting-python-code/)
 
 ## Expected result
 
@@ -52,6 +52,9 @@ This is a file that includes the class of linked list based shopping list manage
 
 As part of the assignment, compare the actual runtime of quicksort operation between two lists and justify in a short paragraph on how they perform.
 
+As you can see in the example below the comparison doesnt work as expected because of a stack overflow. I ran out of time trying to fix it and never got my test modules to work either.
+
 ### Screenshots
 
 ![Example output](../../img/4-output.jpg)
+![StackOverflow](../../img/4.1-output.jpg)

@@ -1,5 +1,7 @@
+"""test array"""
+
 import unittest
-from modules.PE04.list_manager.simple_array_shopping_list_manager import SimpleArrayShoppingListManager
+from modules.PE04.lst_mngr.simple_array_shopping_lst_mngr import SimpleArrayShoppingListManager
 
 class TestSimpleArrayShoppingListManager(unittest.TestCase):
     def test_insert_and_print_items(self):

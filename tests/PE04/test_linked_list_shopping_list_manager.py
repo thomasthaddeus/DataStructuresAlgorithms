@@ -1,6 +1,10 @@
-import unittest
-from modules.PE04.list_manager.linked_list_shopping_list_manager import LinkedListShoppingListManager
+"""test linked_list"""
 
+import unittest
+import pytest
+from lib.bad_linked_list_shopping_lst_mngr import LinkedListShoppingListManager
+
+[test]
 class TestLinkedListShoppingListManager(unittest.TestCase):
     def test_insert_and_print_items(self):
         ll = LinkedListShoppingListManager()
