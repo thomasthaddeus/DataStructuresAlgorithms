@@ -1,0 +1,4600 @@
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.569999535102397e-05
+-lookup: 1.270000939257443e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 9.159999899566174e-05
+-lookup: 1.4599994756281376e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.820000761654228e-05
+-lookup: 9.99998883344233e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.259999645408243e-05
+-lookup: 1.2799995602108538e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.1800005924887955e-05
+-lookup: 9.899988071992993e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.340000254567713e-05
+-lookup: 1.3700002455152571e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.750000228639692e-05
+-lookup: 9.700001101009548e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1700000767596066e-05
+-lookup: 1.8099992303177714e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6299993149004877e-05
+-lookup: 9.2999980552122e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.70000008540228e-05
+-lookup: 2.7699992642737925e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.920000067912042e-05
+-lookup: 8.100003469735384e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.2700008382089436e-05
+-lookup: 1.340000017080456e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.200000744778663e-05
+-lookup: 8.90000956133008e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.389999180100858e-05
+-lookup: 1.2199991033412516e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9800005247816443e-05
+-lookup: 8.500006515532732e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.77000027988106e-05
+-lookup: 1.2200005585327744e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.46999877365306e-05
+-lookup: 7.90000194683671e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.7999990531243384e-05
+-lookup: 1.679999695625156e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9500002963468432e-05
+-lookup: 7.700000423938036e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.77000027988106e-05
+-lookup: 1.2100004823878407e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0199993741698563e-05
+-lookup: 7.90000194683671e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.8200006606057286e-05
+-lookup: 1.1199997970834374e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9099999917671084e-05
+-lookup: 6.700007361359894e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.050000956747681e-05
+-lookup: 1.379998866468668e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8799997633323073e-05
+-lookup: 7.400012691505253e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.280000914353877e-05
+-lookup: 1.3299999409355223e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7299986211583018e-05
+-lookup: 1.2400007108226418e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1700000767596066e-05
+-lookup: 1.3299999409355223e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.759998849593103e-05
+-lookup: 7.700000423938036e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.810000584460795e-05
+-lookup: 1.2899996363557875e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.85999961104244e-05
+-lookup: 6.999995093792677e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.7200010158121586e-05
+-lookup: 2.479999966453761e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.2100011594593525e-05
+-lookup: 7.700000423938036e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.999998782295734e-05
+-lookup: 1.1099997209385037e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.720000000204891e-05
+-lookup: 7.200011168606579e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.6499990276061e-05
+-lookup: 1.030000566970557e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.1400002879090607e-05
+-lookup: 8.700008038431406e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.94000011915341e-05
+-lookup: 1.1199997970834374e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.059999678749591e-05
+-lookup: 1.0200004908256233e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.280000914353877e-05
+-lookup: 1.2100004823878407e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7700003809295595e-05
+-lookup: 8.699993486516178e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.429999146144837e-05
+-lookup: 1.7400001524947584e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.809999907389283e-05
+-lookup: 7.499998901039362e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.570000212173909e-05
+-lookup: 1.410000550094992e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.570000651758164e-05
+-lookup: 7.50001345295459e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1399998483248055e-05
+-lookup: 1.2400007108226418e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.2499996703118086e-05
+-lookup: 9.199997293762863e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.1000013374723494e-05
+-lookup: 2.099999983329326e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.85999961104244e-05
+-lookup: 8.300004992634058e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.090000144671649e-05
+-lookup: 1.679999695625156e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.1100000594742596e-05
+-lookup: 3.3899996196851134e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1399998483248055e-05
+-lookup: 1.1899988749064505e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0099992980249226e-05
+-lookup: 8.699993486516178e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.7200010158121586e-05
+-lookup: 1.239999255631119e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.239999932702631e-05
+-lookup: 8.699993486516178e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 9.009998757392168e-05
+-lookup: 1.649999467190355e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7700003809295595e-05
+-lookup: 4.610000178217888e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.509998977184296e-05
+-lookup: 1.2799995602108538e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6999998479150236e-05
+-lookup: 8.90000956133008e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.729999975301325e-05
+-lookup: 4.16000111727044e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7700003809295595e-05
+-lookup: 7.90000194683671e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.990000161342323e-05
+-lookup: 1.1600001016631722e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.920000067912042e-05
+-lookup: 1.170000177808106e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.850000550504774e-05
+-lookup: 1.2299991794861853e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6599995433352888e-05
+-lookup: 6.599992047995329e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.719999560620636e-05
+-lookup: 9.199997293762863e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.4999997802078724e-05
+-lookup: 6.400005077011883e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.4500004150904715e-05
+-lookup: 9.000010322779417e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.580000389367342e-05
+-lookup: 6.50000583846122e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.7299996367655694e-05
+-lookup: 8.699993486516178e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.5300000086426735e-05
+-lookup: 8.400005754083395e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.8699992476031184e-05
+-lookup: 1.0899995686486363e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6399993910454214e-05
+-lookup: 7.099995855242014e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.6899993321858346e-05
+-lookup: 9.700001101009548e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7300000763498247e-05
+-lookup: 7.000009645707905e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.6999994083307683e-05
+-lookup: 1.1000010999850929e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0700012100860476e-05
+-lookup: 1.069999416358769e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 8.30000062705949e-05
+-lookup: 1.4000004739500582e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8099992303177714e-05
+-lookup: 8.200004231184721e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.339999916031957e-05
+-lookup: 1.2699994840659201e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9500002963468432e-05
+-lookup: 8.200004231184721e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.029999687802047e-05
+-lookup: 1.2400007108226418e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8700011423788965e-05
+-lookup: 8.200004231184721e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.429999146144837e-05
+-lookup: 1.1600001016631722e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9700004486367106e-05
+-lookup: 7.700000423938036e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.09000092279166e-05
+-lookup: 1.2199991033412516e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8099992303177714e-05
+-lookup: 8.000002708286047e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 8.280000474769622e-05
+-lookup: 1.2600008631125093e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6200006939470768e-05
+-lookup: 8.799994247965515e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.200000305194408e-05
+-lookup: 2.5300003471784294e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.2099993657320738e-05
+-lookup: 8.699993486516178e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.760000542271882e-05
+-lookup: 1.3800003216601908e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7800004570744932e-05
+-lookup: 7.599999662488699e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.089999806135893e-05
+-lookup: 1.4599994756281376e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6599995433352888e-05
+-lookup: 8.700008038431406e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.129999772179872e-05
+-lookup: 2.680000034160912e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9000013708136976e-05
+-lookup: 8.099988917820156e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.3499999921768904e-05
+-lookup: 1.239999255631119e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.650000922381878e-05
+-lookup: 5.699999746866524e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.089998790528625e-05
+-lookup: 1.1500000255182385e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0099992980249226e-05
+-lookup: 8.59999272506684e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.019999273121357e-05
+-lookup: 1.7499987734481692e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.750000228639692e-05
+-lookup: 8.000002708286047e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.780000356025994e-05
+-lookup: 1.2599994079209864e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0699997548945248e-05
+-lookup: 7.700000423938036e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.2700008382089436e-05
+-lookup: 1.3700002455152571e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8799997633323073e-05
+-lookup: 8.700008038431406e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.409999332390726e-05
+-lookup: 1.239999255631119e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8999999156221747e-05
+-lookup: 8.400005754083395e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.299999611452222e-05
+-lookup: 1.2999997125007212e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.85999961104244e-05
+-lookup: 1.8600010662339628e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.149999924469739e-05
+-lookup: 1.510001311544329e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7999991541728377e-05
+-lookup: 7.90000194683671e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.390000296756625e-05
+-lookup: 1.1799987987615168e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8399994587525725e-05
+-lookup: 8.800008799880743e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.079999391455203e-05
+-lookup: 1.3800003216601908e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7700003809295595e-05
+-lookup: 9.60000033956021e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.57999883312732e-05
+-lookup: 1.2899996363557875e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.68999977177009e-05
+-lookup: 9.400013368576765e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.679999594576657e-05
+-lookup: 1.4099990949034691e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8799997633323073e-05
+-lookup: 7.90000194683671e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.539999983739108e-05
+-lookup: 1.4699995517730713e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.500000457279384e-05
+-lookup: 6.89999433234334e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 0.00010779999138321728
+-lookup: 1.410000550094992e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.990000600926578e-05
+-lookup: 8.400005754083395e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.3800002206116915e-05
+-lookup: 2.7600006433203816e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.68999977177009e-05
+-lookup: 8.199989679269493e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.699999746866524e-05
+-lookup: 1.2499993317760527e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6999998479150236e-05
+-lookup: 8.600007276982069e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1700000767596066e-05
+-lookup: 1.2300006346777081e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6699996194802225e-05
+-lookup: 6.999995093792677e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.6200002543628216e-05
+-lookup: 1.1099997209385037e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9500002963468432e-05
+-lookup: 8.600007276982069e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.570000212173909e-05
+-lookup: 1.2200005585327744e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7800004570744932e-05
+-lookup: 8.999995770864189e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 0.00010559998918324709
+-lookup: 1.440000778529793e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8999999156221747e-05
+-lookup: 8.899995009414852e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.8200006606057286e-05
+-lookup: 1.1299998732283711e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.990000600926578e-05
+-lookup: 8.300004992634058e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.009999535512179e-05
+-lookup: 1.170000177808106e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8499995348975062e-05
+-lookup: 8.300004992634058e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1399998483248055e-05
+-lookup: 1.2500007869675756e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.1500000255182385e-05
+-lookup: 5.699999746866524e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.0800001695752144e-05
+-lookup: 7.299997378140688e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6699996194802225e-05
+-lookup: 6.999995093792677e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.8099995688535273e-05
+-lookup: 8.499991963617504e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.68999977177009e-05
+-lookup: 7.399998139590025e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1099996198900044e-05
+-lookup: 1.2099990271963179e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.1199997970834374e-05
+-lookup: 4.699992132373154e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.8300011763349175e-05
+-lookup: 5.999987479299307e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6000005416572094e-05
+-lookup: 7.200011168606579e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.519999154377729e-05
+-lookup: 6.799993570894003e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6600009985268116e-05
+-lookup: 7.399998139590025e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.8000001697801054e-05
+-lookup: 1.2899996363557875e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.2100004823878407e-05
+-lookup: 5.099995178170502e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.230000195093453e-05
+-lookup: 6.700007361359894e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.1800002539530396e-05
+-lookup: 4.999994416721165e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.299999272916466e-05
+-lookup: 6.599992047995329e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0699997548945248e-05
+-lookup: 8.100003469735384e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.400000372901559e-05
+-lookup: 1.09999964479357e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.8000006093643606e-05
+-lookup: 1.1199997970834374e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.050000618211925e-05
+-lookup: 1.309999788645655e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7700003809295595e-05
+-lookup: 8.999995770864189e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.660000897478312e-05
+-lookup: 1.1800002539530396e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7400001524947584e-05
+-lookup: 8.499991963617504e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.049999840091914e-05
+-lookup: 4.230000195093453e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9000013708136976e-05
+-lookup: 9.399998816661537e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.43000060133636e-05
+-lookup: 1.5400000847876072e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.750000228639692e-05
+-lookup: 8.699993486516178e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.400000372901559e-05
+-lookup: 1.1399999493733048e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.9899991457350552e-05
+-lookup: 8.500006515532732e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.7900004321709275e-05
+-lookup: 1.1800002539530396e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.850000990089029e-05
+-lookup: 8.400005754083395e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.860000187065452e-05
+-lookup: 3.229999856557697e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.1500003640539944e-05
+-lookup: 7.700000423938036e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.400000372901559e-05
+-lookup: 1.0599993402138352e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.68999977177009e-05
+-lookup: 6.89999433234334e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.380000559147447e-05
+-lookup: 1.0500007192604244e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.920000067912042e-05
+-lookup: 8.200004231184721e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 7.37999944249168e-05
+-lookup: 1.3700002455152571e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.0500010577961802e-05
+-lookup: 1.0000003385357559e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.1399998483248055e-05
+-lookup: 2.9300004825927317e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 2.2099993657320738e-05
+-lookup: 8.000002708286047e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.18000015290454e-05
+-lookup: 1.0199990356341004e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7999991541728377e-05
+-lookup: 8.700008038431406e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.329999839887023e-05
+-lookup: 1.6599995433352888e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7800004570744932e-05
+-lookup: 7.599999662488699e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.5800002883188426e-05
+-lookup: 1.2299991794861853e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.7400001524947584e-05
+-lookup: 7.800001185387373e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 5.089999467600137e-05
+-lookup: 1.2300006346777081e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.6999998479150236e-05
+-lookup: 7.299997378140688e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 6.500000017695129e-05
+-lookup: 1.1399999493733048e-05
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.2800010154023767e-05
+-lookup: 5.299996701069176e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.1800009310245514e-05
+-lookup: 6.89999433234334e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.4699995517730713e-05
+-lookup: 6.699992809444666e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.369999467395246e-05
+-lookup: 6.599992047995329e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.1399999493733048e-05
+-lookup: 5.099995178170502e-06
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 3.1099989428184927e-05
+-lookup: 7.399998139590025e-06
+
+------ Simple array ------
+('flour', '$16.16'), 
+('eggs', '$15.15'), 
+('olive oil', '$14.14'), 
+('pepper', '$13.13'), 
+('salt', '$12.12'), 
+('fish', '$11.11'), 
+('mushroom', '$10.10'), 
+('beef', '$9.90'), 
+('pork', '$8.80'), 
+('carrot', '$7.70'), 
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('bread', '$4.40'), 
+('milk', '$3.30'), 
+('banana', '$2.20'), 
+('apple', '$2.20'), 
+price for apple : $2.20
+price for test : None
+-insert: 1.1399999493733048e-05
+-lookup: 2.1900006686337292e-05
+
+
+
+------ Hash table ------
+('cheese', '$6.60'), 
+('butter', '$5.50'), 
+('beef', '$9.90'), 
+('eggs', '$15.15'), 
+('pork', '$8.80'), 
+('fish', '$11.11'), 
+('banana', '$2.20'), 
+('milk', '$3.30'), 
+('apple', '$2.20'), 
+('bread', '$4.40'), 
+('mushroom', '$10.10'), 
+('carrot', '$7.70'), 
+('pepper', '$13.13'), 
+('flour', '$16.16'), 
+('salt', '$12.12'), 
+('olive oil', '$14.14'), 
+price for apple : $2.20
+price for test : None
+-insert: 4.949999856762588e-05
+-lookup: 1.1399999493733048e-05
+

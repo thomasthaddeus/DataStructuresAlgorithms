@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
-        "listi"
+        "htgsi",
+        "itema",
+        "itemb",
+        "listi",
+        "sagsi"
     ],
     "python.testing.unittestArgs": [
         "-v",
