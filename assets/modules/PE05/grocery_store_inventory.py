@@ -18,8 +18,8 @@ Functions:
 
 import sys
 import time
-from items.hash_gsi import HashTableInventory
-from items.simp_arr_gsi import SimpleArrayInventory
+from src.hash_gsi import HashTableInventory
+from src.simp_arr_gsi import SimpleArrayInventory
 
 item_list = [
     "apple",
@@ -146,7 +146,7 @@ def calc_avg(num_iter: int) -> tuple[float, float, float, float]:
     return sa_insert_avg, sa_lookup_avg, ht_insert_avg, ht_lookup_avg
 
 if __name__ == "__main__":
-    sa_in_avg, sa_out_avg, ht_in_avg, ht_out_avg = calc_avg(100)
+    sa_in_avg, sa_out_avg, ht_in_avg, ht_out_avg = calc_avg(10000)
 
     print(f"Simple array average timings:\n- insert: {sa_in_avg}\n- lookup: {sa_out_avg}\n")
     print(f"Hash table average timings:\n- insert: {ht_in_avg}\n- lookup: {ht_out_avg}\n")

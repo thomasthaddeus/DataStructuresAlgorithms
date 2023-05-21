@@ -1,6 +1,7 @@
 """island_counter_main.py
 
-This script demonstrates the usage of the IslandCounterClass to count the number of islands in a grid representation of a map.
+This script demonstrates the usage of the IslandCounterClass to count the number of islands
+in a grid representation of a map.
 
 Given a 2d grid map of '1's (land) and '0's (water), count the number of islands.
 An island is surrounded by water and is formed by connecting adjacent lands horizontally or
