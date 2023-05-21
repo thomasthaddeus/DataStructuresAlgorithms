@@ -32,11 +32,11 @@ def main():
     start_node = "s"
     end_node = "f"
 
-    print("Path for graph_one:")
+    print("\n\nPath for graph_one:")
     dij_one = DijkstraClass(graph_one)
     dij_one.print_path(start_node, end_node)
 
-    print("Path for graph_two:")
+    print("\n\nPath for graph_two:")
     dij_two = DijkstraClass(graph_two)
     dij_two.print_path(start_node, end_node)
 
