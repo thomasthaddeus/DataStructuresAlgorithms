@@ -4,6 +4,7 @@
         "itema",
         "itemb",
         "listi",
+        "pylab",
         "sagsi"
     ],
     "python.testing.unittestArgs": [
@@ -16,7 +17,8 @@
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
     "python.analysis.extraPaths": [
-        "./assets/modules/PE07/src"
+        "./assets/modules/PE07/src",
+        "./assets/modules/PE08/src/treasurehunt"
     ],
     "python.testing.pytestArgs": [
         "assets"
