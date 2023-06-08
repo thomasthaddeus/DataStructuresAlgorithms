@@ -1,102 +1,91 @@
 """ knn_wrapper.py
 
-_summary_
+This module provides a wrapper class for the K-Nearest Neighbors (KNN) classifier from scikit-learn.
+The class encapsulates methods for data import, model training, and prediction.
 
-_extended_summary_
+Summary:
+This module contains a class, knnWrapperClass, which simplifies the process of applying a KNN
+classifier to a given dataset. The class supports importing data from CSV files, training the
+classifier, and making predictions.
 
 Returns:
-    _type_: _description_
+    knnWrapperClass: A class object that encapsulates methods for a KNN classification task.
 """
 
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn import datasets
 import pandas as pd
-import csv
+from numpy import ndarray
 
 
-class knnWrapperClass:
+class KNNWrapperClass:
     """
-    Summary:
     This class provides methods for training a KNN classifier, making predictions, and importing data files for training and testing.
 
-    _extended_summary_
+    Attributes:
+        knn (KNeighborsClassifier): An instance of the KNeighborsClassifier
+        class from scikit-learn.
+        df_train (pd.DataFrame): Pandas DataFrame for training data.
+        df_train_target (pd.DataFrame): Pandas DataFrame for training targets.
+        df_test (pd.DataFrame): Pandas DataFrame for test data.
+        df_test_target (pd.DataFrame): Pandas DataFrame for test targets.
     """
 
     def __init__(self):
+        self.knn = None
+        self.df_train = None
+        self.df_train_target = None
+        self.df_test = None
+        self.df_test_target = None
+
+    def train(self, neighbors: int) -> None:
         """
-        Initialize the KNNWrapperClass.
+        Train the KNN classifier with the specified number of neighbors.
 
-        Summary:
-            This method initializes the KNNWrapperClass object by setting initial values for the KNN classifier and data variables.
+        Args:
+            neighbors (int): The number of neighbors to consider for classification.
 
-        Extended Summary:
-            - knn: An instance of the KNeighborsClassifier class from scikit-learn.
-            - df_train: Pandas DataFrame for training data.
-            - df_train_target: Pandas DataFrame for training targets.
-            - df_test: Pandas DataFrame for test data.
-            - df_test_target: Pandas DataFrame for test targets.
+        Raises:
+            ValueError: If the training data or target is not imported.
         """
-        knn = None
-        df_train = None
-        df_train_target = None
-        df_test = None
-        df_test_target = None
+        if self.df_train is None or self.df_train_target is None:
+            raise ValueError("Training data or target not imported")
+        self.knn = KNeighborsClassifier(n_neighbors=neighbors)
+        self.knn.fit(self.df_train, self.df_train_target)
 
-    def train(self, neighbors):
+    def predict(self) -> ndarray:
         """
-        Train the KNN classifier.
+        Make predictions using the trained KNN classifier on the test data.
 
-        Summary:
-            This method trains the KNN classifier with the specified number of neighbors.
+        Returns:
+            np.array: Array of predictions for the test data.
 
-        Extended Summary:
-            Args:
-                - neighbors (int): The number of neighbors to consider for classification.
+        Raises:
+            ValueError: If the classifier is not trained or the test data is not imported.
         """
-        # TODO: function logic
+        if self.knn is None:
+            raise ValueError("Classifier not trained")
+        if self.df_test is None:
+            raise ValueError("Test data not imported")
+        return self.knn.predict(self.df_test)
 
-
-    def predict(self):
-        """
-        Make predictions using the trained KNN classifier.
-
-        Summary:
-            This method makes predictions using the trained KNN classifier on the test data.
-
-        Extended Summary:
-            Returns:
-                - type: Description of the return value.
-        """
-        # TODO: function logic
-
-        return 0
-
-
-    def import_train_file(self, train_data, train_tgt):
+    def import_train_file(self, train_data_file: str, train_target_file: str) -> None:
         """
         Import training data and target files.
 
-        Summary:
-            This method imports the training data and target files from the specified paths.
-
-        Extended Summary:
-            Args:
-                - trainDataFile (str): Path to the training data file.
-                - trainTargetFile (str): Path to the training target file.
+        Args:
+            train_data_file (str): Path to the training data file.
+            train_target_file (str): Path to the training target file.
         """
-        # TODO: function logic
+        self.df_train = pd.read_csv(train_data_file)
+        self.df_train_target = pd.read_csv(train_target_file)
 
-
-    def import_test_file(self, testDataFile, testTargetFile):
+    def import_test_file(self, test_data_file: str, test_target_file: str) -> None:
         """
         Import test data and target files.
 
-        Summary:
-            This method imports the test data and target files from the specified paths.
-
-        Extended Summary:
-            Args:
-                - testDataFile (str): Path to the test data file.
-                - testTargetFile (str): Path to the test target file.
+        Args:
+            test_data_file (str): Path to the test data file.
+            test_target_file (str): Path to the test target file.
         """
-        # TODO: function logic
+        self.df_test = pd.read_csv(test_data_file)
+        self.df_test_target = pd.read_csv(test_target_file)
