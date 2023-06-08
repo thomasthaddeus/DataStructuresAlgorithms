@@ -65,7 +65,7 @@ The numbers next to the edges represent the costs to reach the connected nodes.
 In graph_one, the nodes `s`, `a`, `b`, `c`, and `f` are connected with directed edges.
 
 ```mermaid
-graph TD
+flowchart TD
     subgraph graph_one
     s --> a(6)
     s --> b(2)
@@ -74,25 +74,20 @@ graph TD
     b --> c(5)
     c --> f(2)
     end
+    subgraph graph_two
+    s1 ---
+    a1 --> c1{1}
+    b1 --> a1{3}
+    b1 --> c1{5}
+    c1 --> f1{2}
+    f1
+    end
 ```
 
 ### Graph Two - Undirected Edges
 
 In graph_two, the nodes `s`, `a`, `b`, `c`, and `f` are also connected, but there are no costs associated with the edges.
 
-```mermaid
-graph TD
-    subgraph graph_two
-    s --
-    s --
-    a --> c[1]
-    b --> a[3]
-    b --> c[5]
-    c --> f[2]
-    f
-    end
-
-```
 
 ## Execution
 

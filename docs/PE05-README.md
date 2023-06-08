@@ -32,7 +32,7 @@ print_items(): prints item in pair of item name and price.
 find_item(item): returns the price of a given item. If the item is not found, simply use "returns" statement.
 Parameters: item name to be looked up.
 
-## [hash_grocery_store_inventory.py]()
+### [hash_grocery_store_inventory.py]()
 
 This is a file that includes the class of hash tables based inventory manager. This class contains such methods as init, insert_item, print_items, find_item. In addition, this class requires the inner class to hold onto hash tables data as a linked list. Please keep in mind the following notes for each method during implementation:
 
@@ -40,9 +40,10 @@ Example illustration: hash tables based inventory structure should look like the
 
 Init(tableSize): initializes array 'tableSize' size array with None object to be used to store a linked list.
 
-### Parameters: table size. Note: think this as the load factor.
-
-hash_func(key): uses item name as a key to compute the hash and returns the result. For this exercise purpose, we will simply sum up each character's ASCII decimals from the item name to compute the hash value.
+Parameters: table size
+Note: think this as the load factor
+hash_func(key): uses item name as a key to compute the hash and returns the result.
+For this exercise purpose, we will simply sum up each character's ASCII decimals from the item name to compute the hash value.
 Ex. apple: a (97) + p (112) + p (112) + l (108) + e (101) = 530
 
 Parameters: item name.
@@ -59,5 +60,13 @@ If the item is not found, create a new node and attach it at the end of the link
 print_items(): prints items throughout the hash tables with a linked list. Note: try to print as [ (item1, price1) … ] \n by using some combinations of "print(item, end = " ")" at each hash tables slot as shown below.
 find_item(key): returns the price of a given item. If the item is not found, simply use the "returns" statement. Try to reuse the hash_func method. Parameters: item name to be looked up.
 As part of the assignment, compare the actual runtime of hash tables operation between two inventory structures and justify in a short paragraph on how it performs.
+
+## Notes
+
+The actual runtime of hash table operations in this exercise will depend on the specific implementation and the input data. However, in general, hash tables offer faster average-case performance for insertions and lookups compared to simple arrays. This is because hash tables have an average-case time complexity of O(1) for both insertions and lookups, while simple arrays have an average-case time complexity of O(n) for lookups and O(1) for insertions at the end. In the provided code, the main function measures the time taken to insert items and find items in both the SimpleArrayGroceryStoreInventoryClass and the HashGroceryStoreInventoryClass.
+
+Upon running the script, it is expected that the hash table implementation will demonstrate a faster performance for lookups when compared to the simple array implementation, while both data structures should have similar insertion times. However, it is important to note that the performance improvement provided by hash tables comes at the cost of increased memory usage due to the use of an array with a specified load factor, as well as the possibility of collisions in the hash table. These collisions can be resolved by using a linked list, as demonstrated in the script.
+
+In conclusion, the script showcases the time difference between the two data structures, which can be used to justify the choice of a particular data structure based on the specific use case and requirements. In general, hash tables are a better choice when faster lookups are a priority, while simple arrays can be more appropriate when memory usage is a concern.
 
 [1]: https://mycourses.cityu.edu/content/enforced/47262-12341133/grocery_store_inventory.py?_&d2lSessionVal=0lajd93gwEyR4UT3QX6Ozqqgj
