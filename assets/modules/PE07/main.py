@@ -1,4 +1,4 @@
-"""dijkstra_main.py
+"""main.py
 
 This assignment is to learn about the Dijkstra algorithm.
 Given a hash graph map from the dijkstra_main.py, complete the functions
