@@ -26,7 +26,8 @@ Result should achieve five 0s, five 1s, five 2s:
 
 from knn_wrapper import KNNWrapperClass
 from numpy import ndarray
-from sklearn import datasets
+from sklearn.datasets import load_iris, load_wine
+
 
 
 def main() -> None:
@@ -46,11 +47,11 @@ def main() -> None:
     result: ndarray = knnw.predict()
     print(result)
 
-    knnw = KNNWrapperClass()
-    knnw.import_train_file("wine_data.csv", "wine_target.csv")
-    knnw.train(2)
-    knnw.import_test_file("wine_test_data.csv", "wine_test_target.csv")
-    result: ndarray = knnw.predict()
+    knnw2 = KNNWrapperClass()
+    knnw2.import_train_file("wine_data.csv", "wine_target.csv")
+    knnw2.train(2)
+    knnw2.import_test_file("wine_test_data.csv", "wine_test_target.csv")
+    result: ndarray = knnw2.predict()
     print(result)
 
 

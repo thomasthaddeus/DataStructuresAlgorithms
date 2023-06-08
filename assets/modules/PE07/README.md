@@ -8,8 +8,10 @@
     - [Summary](#summary)
     - [Screenshot](#screenshot)
   - [Graph Structure](#graph-structure)
+    - [Graph One - Directed Edges](#graph-one---directed-edges)
+    - [Graph Two - Undirected Edges](#graph-two---undirected-edges)
   - [Execution](#execution)
-  - [Tests](#tests)
+  - [Sample Tests](#sample-tests)
 
 ## Instructions
 
@@ -72,7 +74,14 @@ graph TD
     b --> c(5)
     c --> f(2)
     end
+```
 
+### Graph Two - Undirected Edges
+
+In graph_two, the nodes `s`, `a`, `b`, `c`, and `f` are also connected, but there are no costs associated with the edges.
+
+```mermaid
+graph TD
     subgraph graph_two
     s --
     s --
@@ -82,15 +91,6 @@ graph TD
     c --> f[2]
     f
     end
-
-```
-
-### Graph Two - Undirected Edges
-
-In graph_two, the nodes `s`, `a`, `b`, `c`, and `f` are also connected, but there are no costs associated with the edges.
-
-```mermaid
-graph TD
 
 ```
 

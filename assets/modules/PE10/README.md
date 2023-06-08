@@ -4,7 +4,7 @@
 
 ### Description
 
-The objective of this assignment is to learn about k-nearest neighbors. Given two data sets, complete the functions in the separate `knnWrapperClass` class within knn_wrapper.py, and edit the parameter on the `train` method call from the main method to achieve 100% accuracy. The `knnWrapperClass` object is to implement a k-nearest classifier wrapper and classify test data. Note that `knn_wrapper_main.py` with the `main` method and starter file `knn_wrapper.py` with class with data has already been provided (download attachment). In addition, you should use the `pandas` and `KNeighborsClassifier` library from `sklearn`, and you need to achieve a 100% classification rate on test data.
+The objective of this assignment is to learn about k-nearest neighbors. Given two data sets, complete the functions in the separate `knnWrapperClass` class within `knn_wrapper.py`, and edit the parameter on the `train` method call from the main method to achieve 100% accuracy. The `knnWrapperClass` object is to implement a k-nearest classifier wrapper and classify test data. Note that `knn_wrapper_main.py` with the `main` method and starter file `knn_wrapper.py` with class with data has already been provided (download attachment). In addition, you should use the `pandas` and `KNeighborsClassifier` library from `sklearn`, and you need to achieve a 100% classification rate on test data.
 
 As part of the assignment, provide which 'neighbor' parameter works best for each dataset and describe tips on choosing the 'neighbor' value. Keep in mind to always comment and document your class and methods.
 

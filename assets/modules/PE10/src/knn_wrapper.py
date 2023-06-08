@@ -1,25 +1,28 @@
 """ knn_wrapper.py
 
-This module provides a wrapper class for the K-Nearest Neighbors (KNN) classifier from scikit-learn.
-The class encapsulates methods for data import, model training, and prediction.
+This module provides a wrapper class for the K-Nearest Neighbors (KNN)
+classifier from scikit-learn. The class encapsulates methods for data import,
+model training, and prediction.
 
 Summary:
-This module contains a class, knnWrapperClass, which simplifies the process of applying a KNN
-classifier to a given dataset. The class supports importing data from CSV files, training the
-classifier, and making predictions.
+This module contains a class, knnWrapperClass, which simplifies the process of
+applying a KNN classifier to a given dataset. The class supports importing data
+from CSV files, training the classifier, and making predictions.
 
 Returns:
     knnWrapperClass: A class object that encapsulates methods for a KNN classification task.
 """
 
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score
 import pandas as pd
 from numpy import ndarray
 
 
 class KNNWrapperClass:
     """
-    This class provides methods for training a KNN classifier, making predictions, and importing data files for training and testing.
+    This class provides methods for training a KNN classifier, making
+    predictions, and importing data files for training and testing.
 
     Attributes:
         knn (KNeighborsClassifier): An instance of the KNeighborsClassifier
@@ -42,7 +45,8 @@ class KNNWrapperClass:
         Train the KNN classifier with the specified number of neighbors.
 
         Args:
-            neighbors (int): The number of neighbors to consider for classification.
+            neighbors (int): The number of neighbors to consider for
+            classification.
 
         Raises:
             ValueError: If the training data or target is not imported.
@@ -60,7 +64,8 @@ class KNNWrapperClass:
             np.array: Array of predictions for the test data.
 
         Raises:
-            ValueError: If the classifier is not trained or the test data is not imported.
+            ValueError: If the classifier is not trained or the test data is
+            not imported.
         """
         if self.knn is None:
             raise ValueError("Classifier not trained")
@@ -89,3 +94,21 @@ class KNNWrapperClass:
         """
         self.df_test = pd.read_csv(test_data_file)
         self.df_test_target = pd.read_csv(test_target_file)
+
+    def evaluate(self):
+        """
+        Evaluate the accuracy of the trained KNN classifier on the test data.
+
+        Returns:
+            float: Accuracy of the classifier on the test data.
+
+        Raises:
+            ValueError: If the classifier is not trained, or the test data or
+            targets are not imported.
+        """
+        if self.knn is None:
+            raise ValueError("Classifier not trained")
+        if self.df_test is None or self.df_test_target is None:
+            raise ValueError("Test data or targets not imported")
+        predictions = self.knn.predict(self.df_test)
+        return accuracy_score(self.df_test_target, predictions)
