@@ -27,6 +27,8 @@ Result should achieve five 0s, five 1s, five 2s:
 from src.knn_wrapper import KNNWrapperClass
 from numpy import ndarray
 
+my_data = "D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data"
+
 
 def main() -> None:
     """
@@ -39,19 +41,29 @@ def main() -> None:
     dataset, printing the results.
     """
     knnw = KNNWrapperClass()
-    knnw.import_train_file("./data/iris_data.csv", "./data/iris_target.csv")
-    knnw.train(3)
-    knnw.import_test_file("D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data/iris_test_data.csv", "D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data/iris_test_target.csv")
+    knnw.import_train_file(
+        f"{my_data}/iris_data.csv",
+        f"{my_data}/iris_target.csv"
+    )
+    knnw.train(7)
+    knnw.import_test_file(
+        f"{my_data}/iris_test_data.csv",
+        f"{my_data}/iris_test_target.csv"
+    )
     result: ndarray = knnw.predict()
-    print(result)
 
     knnw2 = KNNWrapperClass()
-    knnw2.import_train_file("D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data/wine_data.csv", "D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data/wine_target.csv")
+    knnw2.import_train_file(
+        f"{my_data}/wine_data.csv",
+        f"{my_data}/wine_target.csv"
+    )
     knnw2.train(3)
-    knnw2.import_test_file("D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data/wine_test_data.csv", "D:/Repositories/PEs/Algorithms/VL/assets/modules/PE10/data/wine_test_target.csv")
-    result: ndarray = knnw2.predict()
-    print(result)
+    knnw2.import_test_file(
+        f"{my_data}/wine_test_data.csv",
+        f"{my_data}/wine_test_target.csv"
+    )
+    result2: ndarray = knnw2.predict()
 
-
+    print(f"\n\n{result}\n\n{result2}\n\n\n")
 if __name__ == "__main__":
     main()
