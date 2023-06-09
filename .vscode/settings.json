@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
+        "etime",
+        "srch"
         "htgsi",
         "itema",
         "itemb",
@@ -14,13 +16,16 @@
         "-p",
         "test_*.py"
     ],
+    "python.testing.pytestArgs": [
+        "assets"
+    ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
     "python.analysis.extraPaths": [
         "./assets/modules/PE07/src",
         "./assets/modules/PE08/src/treasurehunt"
+        "./assets/modules/PE09/src",
+        "./assets/modules/PE10/src"
     ],
-    "python.testing.pytestArgs": [
-        "assets"
-    ]
+    "python.analysis.typeCheckingMode": "basic"
 }
