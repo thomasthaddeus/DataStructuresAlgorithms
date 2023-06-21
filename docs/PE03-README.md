@@ -97,4 +97,4 @@ Comparison of the actual runtime of the insert operation between the two lists.
 
 ### Example Output
 
-![Output from failed implementation](../../img/3-output.jpg)
+![Output from failed implementation](/img/3-output.jpg)
