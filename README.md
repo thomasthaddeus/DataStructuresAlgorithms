@@ -1,4 +1,4 @@
-# CS469_Algorithms
+# Algorithms 📊
 
 Algorihtms examples
 
@@ -16,7 +16,7 @@ This assignment is to gain knowledge on **Stack** and **Recursive** functions. A
 
 Each storing mechanism is separated into different files, such as `simple_array_shopping_list_manager.py` or `linked_list_shopping_list_manager.py`, where each file contains `FileNameClass` classes with essential methods for data manipulation.
 
-## 🤓[Week 4][W4]: Quicksort
+## :octocat:[Week 4][W4]: Quicksort
 
 This assignment is to gain knowledge on quicksort using a linked list. A shopping list will be reimplemented for this exercise. The program stores shopping items in both simple arrays and linked lists utilizing different methods for either. Each storing mechanism is separated into different files, such as `simple_array_shopping_list_manager.py` or `linked_list_shopping_list_manager.py`, where each file contains FileNameClass classes with essential methods for data manipulation.
 
@@ -28,7 +28,7 @@ This assignment is to gain knowledge on hash tables using a simple array along w
 
 This assignment is to gain knowledge on the Breadth-first search using a queue. Given a 2D grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water. 
 
-## 💻 [Week 7][W7]: Dijkstras Algorithm
+## 🤓💻 [Week 7][W7]: Dijkstras Algorithm
 
 This assignment is to learn about the Dijkstra algorithm. Given a hash graph map from the dijkstra_main.py, complete the functions in the separate "DijkstraClass" class within dijkstra.py. The main object of the "DijkstraClass" is to find the lowest-cost path from the start (s) to finish (f). 
 
@@ -47,7 +47,7 @@ A `treasure` + `hunter` map `array` of size `n` is constructed with the followin
 
 Given two string sequences from the longest_common_subseq_main.py, complete the functions in the separate LCSClass class within `longest_common_subseq.py`. The main object of the LCSClass is to find the length of the longest common subsequence.
 
-## [Week 10][W10]: k-nn
+## 🧔[Week 10][W10]: k-nn
 
 The objective of this assignment is to learn about k-nearest neighbors. Given two data sets, complete the functions in the separate knnWrapperClass class within `knn_wrapper.py`, and edit the parameter on the train method call from the main method to achieve 100% accuracy. The knnWrapperClass object is to implement a k-nearest classifier wrapper and classify test data. In addition, you should use the pandas and KNeighborsClassifier library from sklearn, and you need to achieve a 100% classification rate on test data.
 
