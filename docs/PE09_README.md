@@ -1,6 +1,6 @@
 # PE09: Programming Exercise
 
-## Instructions: Programming Assignment #9: Dynamic Programming
+## Dynamic Programming
 
 [main program][main]
 [Longest Common Subsequence][lcs]
