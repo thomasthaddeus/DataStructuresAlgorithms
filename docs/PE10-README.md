@@ -43,9 +43,9 @@ Mertz, J. (n.d.). Documenting Python Code: A Complete Guide. <https://realpython
 
 ### Example output
 
-![KNN](../../../img/knn_expected_outcome.png)
+![KNN](/img/knn_expected_outcome.png)
 
-![Outcome](../../../img/../Algorithms/VL/img/10-1.jpg)
+![Outcome](/img/10-1.jpg)
 
 ## Results
 
