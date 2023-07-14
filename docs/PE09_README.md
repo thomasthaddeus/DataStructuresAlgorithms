@@ -2,8 +2,8 @@
 
 ## Dynamic Programming
 
-[main program][main]
-[Longest Common Subsequence][lcs]
+- [main program][main]
+- [Longest Common Subsequence][lcs]
 
 ### Description
 
@@ -50,6 +50,6 @@ Describe how the algorithms can be implemented recursively and how it would perf
 
 > The performance of this algorithm is generally `O(n*m)` where `n` and `m` are the lengths of the two strings. This is because for every combination of indexes `(i, j)` in the strings `(1 <= i <= n, 1 <= j <= m)`, we're solving the subproblem for indices `(i, j)` only once.
 
-[main]: <./src/longest_common_subseq_main.py> "This is the Main python file that is already provided and contains the main and test procedure, which calls methods implemented on 'longest_common_subseq.py'."
-[lcs]: <./src/longest_common_subseq.py> "the method returns the longest common subsequence length of given test string x and subsequence string y."
-[doc-ref]: <https://realpython.com/documenting-python-code/> "Mertz, J. (n.d.). Documenting Python Code: A Complete Guide."
+[main]: ./src/longest_common_subseq_main.py "This is the Main python file that is already provided and contains the main and test procedure, which calls methods implemented on 'longest_common_subseq.py'."
+[lcs]: ./src/longest_common_subseq.py "The method returns the longest common subsequence length of given test string x and subsequence string y."
+[doc-ref]: https://realpython.com/documenting-python-code/ "Mertz, J. (n.d.). Documenting Python Code: A Complete Guide."
