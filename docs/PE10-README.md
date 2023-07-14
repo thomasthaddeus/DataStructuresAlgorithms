@@ -38,8 +38,8 @@ Mertz, J. (n.d.). Documenting Python Code: A Complete Guide. <https://realpython
    - `init()`: this method has already been provided. Please use the 'knn' and 'df_xxx' global field throughout class implementation.
    - `train(neighbors)`: the method trains knn classifier using KNeighborsClassifier and fit method from it. Parameters: neighbors value
    - `predict()`: the method classifies df_test data and returns the result
-   - `import_train_file(trainDataFile, trainTargetFile)`: the method imports train data and target CSV file to df_train and df_train_target global field. Please consider using 'pandas' library and to_list() function for 'target' CSV file
-   - `import_test_file(testDataFile, testTargetFile)`: the method imports test data and target CSV file to df_test and df_test_target global field. Please consider using 'pandas' library and to_list() function for 'target' CSV file
+   - `import_train_file(trainDataFile, trainTargetFile)`: the method imports train data and target CSV file to df_train and df_train_target global field. Please consider using 'pandas' library and `to_list()` function for 'target' CSV file
+   - `import_test_file(testDataFile, testTargetFile)`: the method imports test data and target CSV file to df_test and df_test_target global field. Please consider using 'pandas' library and `to_list()` function for 'target' CSV file
 
 ### Example output
 
@@ -49,4 +49,4 @@ Mertz, J. (n.d.). Documenting Python Code: A Complete Guide. <https://realpython
 
 ## Results
 
-As part of the assignment, provide which 'neighbor' parameter works best for each dataset and describe tips on choosing the 'neighbor' value.
+Provide which 'neighbor' parameter works best for each dataset and describe tips on choosing the 'neighbor' value.
