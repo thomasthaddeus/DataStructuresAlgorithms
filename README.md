@@ -1,6 +1,6 @@
 # Algorithms 📊
 
-Algorihtms examples
+List of Algorithms and Examples
 
 ## 🐍[Week 1][W1]: Python Fundamentals
 
